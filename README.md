@@ -7,7 +7,6 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: You can't  ☠
 
-![explosion-transparent-gif-4](https://github.com/Anonimbus/Anonimbus/assets/134917427/e300e4a9-af9d-4c08-a556-6db37ea6e52e)
 ![mr-bean-cctv-wacky-face-to6knmk7slx6rvka](https://github.com/Anonimbus/Anonimbus/assets/134917427/57286538-7620-4fa1-a023-793156a8bd2e)
 
 
