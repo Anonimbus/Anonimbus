@@ -1,3 +1,4 @@
+![200w](https://github.com/Anonimbus/Anonimbus/assets/134917427/383ed88d-19d7-457f-8d43-561cdabff5b2)      
 - 👋 Hi, I’m @Anonimbus   (ツ)_/¯✌
 - 👀 I’m interested in Problem Solving 🖇, Bounty Hunting 💰, Ethical Hacking 💻, & Data Science 📈
 - 🌱 I’m currently learning JavaScript 
@@ -5,6 +6,11 @@
 - 📫 How to reach me : read "Fun fact" 👇
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: You can't  ☠
+
+![explosion-transparent-gif-4](https://github.com/Anonimbus/Anonimbus/assets/134917427/e300e4a9-af9d-4c08-a556-6db37ea6e52e)
+![mr-bean-cctv-wacky-face-to6knmk7slx6rvka](https://github.com/Anonimbus/Anonimbus/assets/134917427/57286538-7620-4fa1-a023-793156a8bd2e)
+
+
 
 <!---
 Anonimbus/Anonimbus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
