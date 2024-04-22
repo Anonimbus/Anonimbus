@@ -3,7 +3,7 @@
 
 - 👋 Hi, I’m @Anonimbus   (ツ)_/¯✌
 - 👀 I’m interested in Problem Solving 🖇, Bounty Hunting 💰, Ethical Hacking 💻, & Data Science 📈
-- 🌱 I’m currently learning JavaScript 
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ... anything I can help on  ╰(*°v°*)╯😉
 - 📫 How to reach me : read "Fun fact" 👇
 - 😄 Pronouns: He/Him
